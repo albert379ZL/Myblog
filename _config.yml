@@ -120,8 +120,8 @@ baseurl: /Myblog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: 创世纪
+description: 已经没有退路了
 theme: kunka
 disqusname: albert379ZL
 
