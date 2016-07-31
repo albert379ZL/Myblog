@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: albert379ZL
-baseurl: /StrayBirds
+baseurl: /Myblog
 markdown: redcarpet
 safe: false
 highlighter: pygments
